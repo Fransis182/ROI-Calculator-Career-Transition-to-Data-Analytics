@@ -57,12 +57,34 @@ Based on transition from F&B (€1,500/mo) to Data Analyst (€2,600/mo):
 2. **Target salary**  
 3. **Training costs**  
 4. **Job search duration**
+   
+## 🌱 Non-Financial ROI (Personal Impact)
+
+This project is not only about financial ROI. It also reflects the personal and professional return on investing in my career transition:
+
+- 📚 **Learning growth**: completing Kaggle courses (Intro to Programming, Functions), daily practice with Claude and ChatGPT, and building my first React component from scratch with AI assistance.
+- 🧠 **Mindset shift**: moving from “I don’t understand code” to “I can read, adapt, and explain AI-generated code and use it as a tool.”
+- 🎯 **Career clarity**: defining a clear goal — joining a tech company as a Data Analyst / AI-enabled Analyst, instead of staying in a role that no longer fits me.
+- 💻 **Tech identity**: opening my GitHub account, publishing my first project, and starting to see myself as someone who builds tools, not only uses them.
+- 🤝 **Professional positioning**: updating my LinkedIn to reflect my transition from F&B Operations to Data Analytics and creating a portfolio that tells this story.
+- 🔁 **Long-term growth**: treating this project as a first step in a continuous learning journey (Python, SQL, data visualization, AI tools) rather than a one-time exercise.
+
+These elements are harder to quantify than salary, but they represent the long-term value of this transition: skills, identity, opportunities, and the confidence to build a new career in tech.
 
 Calculates:
 - Annual income difference  
 - Break-even point  
 - ROI at 1, 2, and 3 years  
-- Cumulative income comparison  
+- Cumulative income comparison
+
+  ### Additional Non-Financial Insights (described in this project, not automatically calculated):
+
+- Learning progression during the transition (Python, React, AI tools)
+- Skill acquisition aligned with Data Analyst roles
+- Improved confidence and clarity about career direction
+- Ability to build tools, understand code, and document a complete project
+- Development of a professional tech identity (GitHub, portfolio, LinkedIn)
+
 
 ## 📂 Project Structure
 
